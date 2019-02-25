@@ -15,5 +15,7 @@ int main()
     cin>>b;
     cout<<"¬ведено: "<<a<<"  "<<b<<endl;
 
+    cout<<"—умма введенных чисел: "<<a + b<<endl;
+
     return 0;
 }
